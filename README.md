@@ -21,17 +21,6 @@ To help used car dealerships:
 
 ---
 
-## 📁 Repository Structure
-```text
-used-car-price-prediction/
-├── data/                         # Input dataset (cleaned)
-├── notebooks/                   # Jupyter Notebooks for analysis & modeling                       
-├── README.md                    # Project documentation
-└── requirements.txt             # Python dependencies
-```
-
----
-
 ## 📈 Model Summary
 | Model              | R² Score | RMSE (log-scale) | Notes                                     |
 |-------------------|----------|------------------|-------------------------------------------|
